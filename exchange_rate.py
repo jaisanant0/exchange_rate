@@ -2,8 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import sys
 
-if len(sys.argv) < 2 :
+if len(sys.argv) < 3 :
     print("[-] All required arguments not given.")
+    sys.exit(0)
 
 filepath=sys.argv[1]
 plotpath=sys.argv[2]
