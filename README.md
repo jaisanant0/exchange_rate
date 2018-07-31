@@ -5,7 +5,7 @@
     <br>-matplotlib
     <br>-sys
 
-### It plots the rate of different Countries currency per USD in historically.
+### It plots the rate of different Countries currency per USD historically.
 
 > ## USAGE :
   <u> In Terminal : </u><br>
